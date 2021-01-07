@@ -125,5 +125,3 @@ General configuration for OpenCV 3.3.1-dev =====================================
   cvconfig.h is in:              /home/sajjad/opencv/build_js
 -----------------------------------------------------------------
 ```
-
-- Tested with opencv.js version 4.0.0
